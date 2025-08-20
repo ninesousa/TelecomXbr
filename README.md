@@ -18,6 +18,3 @@ Este projeto realiza uma análise exploratória dos dados de clientes para enten
 - Seaborn  
 - Matplotlib  
 - Jupyter Notebook
-
-Para dúvidas ou sugestões, entre em contato: [seu-email@exemplo.com]
-
